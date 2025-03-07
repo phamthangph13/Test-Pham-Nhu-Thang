@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sFfGqbPrsME7T0YqBRMUFbpVO4x7DnG7lpZns9sMuT8=",
+  "Hash": "SjMK1LDo7oyRh2ruJLMca39S08VtC4MMCRLRt/2Or3c=",
   "Source": "ProductManagementAPI",
   "BasePath": "_content/ProductManagementAPI",
   "Mode": "Default",
@@ -8,82 +8,82 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ProductManagementAPI/wwwroot",
+      "Name": "ProductManagementAPI\\wwwroot",
       "Source": "ProductManagementAPI",
-      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "ContentRoot": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\",
       "BasePath": "_content/ProductManagementAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
+      "Identity": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-1jplcugm82.gz",
       "SourceId": "ProductManagementAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/",
+      "ContentRoot": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "_content/ProductManagementAPI",
-      "RelativePath": "script#[.{fingerprint=v95uhu2rto}]?.js.gz",
+      "RelativePath": "script#[.{fingerprint=1jplcugm82}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "RelatedAsset": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ty8rwjmw18",
-      "Integrity": "2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=",
+      "Fingerprint": "q1rzbi57ag",
+      "Integrity": "UgnEIC+1iuX/mg/OKH/ZYw2iFMTktfaPv4u5rxF6CgU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js"
+      "OriginalItemSpec": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\script.js"
     },
     {
-      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Identity": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-vqy268ckqy.gz",
       "SourceId": "ProductManagementAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/",
+      "ContentRoot": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "_content/ProductManagementAPI",
-      "RelativePath": "index#[.{fingerprint=fr5ci1w16i}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=vqy268ckqy}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "RelatedAsset": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r9j57fbj6y",
-      "Integrity": "z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=",
+      "Fingerprint": "c6nnsog79l",
+      "Integrity": "FJH/5VNmbOZGhLdouvx7DqFtV2FnlKKUWULHI9CIWSA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html"
+      "OriginalItemSpec": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\index.html"
     },
     {
-      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "Identity": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-k0na13w05i.gz",
       "SourceId": "ProductManagementAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/",
+      "ContentRoot": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "_content/ProductManagementAPI",
-      "RelativePath": "styles#[.{fingerprint=630xbzxsri}]?.css.gz",
+      "RelativePath": "styles#[.{fingerprint=k0na13w05i}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "RelatedAsset": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g8ctzikmnv",
-      "Integrity": "MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=",
+      "Fingerprint": "7ai54j8f36",
+      "Integrity": "z9vNTnPhrTlOMBeUTG9Em8uokiQLs1rKR0dd81leVng=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css"
+      "OriginalItemSpec": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\styles.css"
     },
     {
-      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "Identity": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\index.html",
       "SourceId": "ProductManagementAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "ContentRoot": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\",
       "BasePath": "_content/ProductManagementAPI",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fr5ci1w16i",
-      "Integrity": "1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=",
+      "Fingerprint": "vqy268ckqy",
+      "Integrity": "Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/index.html"
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "Identity": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\script.js",
       "SourceId": "ProductManagementAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "ContentRoot": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\",
       "BasePath": "_content/ProductManagementAPI",
       "RelativePath": "script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -115,17 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v95uhu2rto",
-      "Integrity": "zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=",
+      "Fingerprint": "1jplcugm82",
+      "Integrity": "fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/script.js"
+      "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "Identity": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\styles.css",
       "SourceId": "ProductManagementAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "ContentRoot": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\",
       "BasePath": "_content/ProductManagementAPI",
       "RelativePath": "styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -136,22 +136,22 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "630xbzxsri",
-      "Integrity": "Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=",
+      "Fingerprint": "k0na13w05i",
+      "Integrity": "BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/styles.css"
+      "OriginalItemSpec": "wwwroot\\styles.css"
     }
   ],
   "Endpoints": [
     {
-      "Route": "index.fr5ci1w16i.html",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Route": "index.html",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-vqy268ckqy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000793650794"
+          "Quality": "0.000787401575"
         }
       ],
       "ResponseHeaders": [
@@ -161,15 +161,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1259"
+          "Value": "1269"
         },
         {
           "Name": "ETag",
-          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
+          "Value": "\"FJH/5VNmbOZGhLdouvx7DqFtV2FnlKKUWULHI9CIWSA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-vqy268ckqy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FJH/5VNmbOZGhLdouvx7DqFtV2FnlKKUWULHI9CIWSA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FJH/5VNmbOZGhLdouvx7DqFtV2FnlKKUWULHI9CIWSA="
+        }
+      ]
+    },
+    {
+      "Route": "index.vqy268ckqy.html",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-vqy268ckqy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000787401575"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1269"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FJH/5VNmbOZGhLdouvx7DqFtV2FnlKKUWULHI9CIWSA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -189,13 +326,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+          "Value": "W/\"Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fr5ci1w16i"
+          "Value": "vqy268ckqy"
         },
         {
           "Name": "label",
@@ -203,13 +340,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+          "Value": "sha256-Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA="
         }
       ]
     },
     {
-      "Route": "index.fr5ci1w16i.html",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "Route": "index.vqy268ckqy.html",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -218,7 +355,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4967"
+          "Value": "5084"
         },
         {
           "Name": "Content-Type",
@@ -226,11 +363,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+          "Value": "\"Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -240,7 +377,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fr5ci1w16i"
+          "Value": "vqy268ckqy"
         },
         {
           "Name": "label",
@@ -248,13 +385,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+          "Value": "sha256-Z8I0U4Fd3Cpd3nZI48xyjexAWzkchJe2ltX4cLXmLBA="
         }
       ]
     },
     {
-      "Route": "index.fr5ci1w16i.html.gz",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Route": "index.vqy268ckqy.html.gz",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-vqy268ckqy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -263,7 +400,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1259"
+          "Value": "1269"
         },
         {
           "Name": "Content-Type",
@@ -271,11 +408,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
+          "Value": "\"FJH/5VNmbOZGhLdouvx7DqFtV2FnlKKUWULHI9CIWSA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -293,7 +430,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fr5ci1w16i"
+          "Value": "vqy268ckqy"
         },
         {
           "Name": "label",
@@ -301,18 +438,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY="
+          "Value": "sha256-FJH/5VNmbOZGhLdouvx7DqFtV2FnlKKUWULHI9CIWSA="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Route": "script.1jplcugm82.js",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-1jplcugm82.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000793650794"
+          "Quality": "0.000423370025"
         }
       ],
       "ResponseHeaders": [
@@ -322,289 +459,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1259"
+          "Value": "2361"
         },
         {
           "Name": "ETag",
-          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
+          "Value": "\"UgnEIC+1iuX/mg/OKH/ZYw2iFMTktfaPv4u5rxF6CgU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4967"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1259"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY="
-        }
-      ]
-    },
-    {
-      "Route": "script.js",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000426803244"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2342"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
-        }
-      ]
-    },
-    {
-      "Route": "script.js",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10093"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
-        }
-      ]
-    },
-    {
-      "Route": "script.js.gz",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2342"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E="
-        }
-      ]
-    },
-    {
-      "Route": "script.v95uhu2rto.js",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000426803244"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2342"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -624,13 +487,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+          "Value": "W/\"fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v95uhu2rto"
+          "Value": "1jplcugm82"
         },
         {
           "Name": "label",
@@ -638,13 +501,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+          "Value": "sha256-fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU="
         }
       ]
     },
     {
-      "Route": "script.v95uhu2rto.js",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "Route": "script.1jplcugm82.js",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -653,7 +516,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10093"
+          "Value": "10423"
         },
         {
           "Name": "Content-Type",
@@ -661,11 +524,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+          "Value": "\"fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -675,7 +538,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v95uhu2rto"
+          "Value": "1jplcugm82"
         },
         {
           "Name": "label",
@@ -683,13 +546,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+          "Value": "sha256-fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU="
         }
       ]
     },
     {
-      "Route": "script.v95uhu2rto.js.gz",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
+      "Route": "script.1jplcugm82.js.gz",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-1jplcugm82.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -698,7 +561,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2342"
+          "Value": "2361"
         },
         {
           "Name": "Content-Type",
@@ -706,11 +569,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
+          "Value": "\"UgnEIC+1iuX/mg/OKH/ZYw2iFMTktfaPv4u5rxF6CgU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -728,7 +591,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v95uhu2rto"
+          "Value": "1jplcugm82"
         },
         {
           "Name": "label",
@@ -736,18 +599,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E="
+          "Value": "sha256-UgnEIC+1iuX/mg/OKH/ZYw2iFMTktfaPv4u5rxF6CgU="
         }
       ]
     },
     {
-      "Route": "styles.630xbzxsri.css",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "Route": "script.js",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-1jplcugm82.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000437828371"
+          "Quality": "0.000423370025"
         }
       ],
       "ResponseHeaders": [
@@ -757,15 +620,289 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2283"
+          "Value": "2361"
         },
         {
           "Name": "ETag",
-          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
+          "Value": "\"UgnEIC+1iuX/mg/OKH/ZYw2iFMTktfaPv4u5rxF6CgU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fbhcXqa5AkhKMNQGPPvN0pCo0Hh8xHGUFru7MPCN2KU="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-1jplcugm82.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgnEIC+1iuX/mg/OKH/ZYw2iFMTktfaPv4u5rxF6CgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgnEIC+1iuX/mg/OKH/ZYw2iFMTktfaPv4u5rxF6CgU="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-k0na13w05i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000434216240"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2302"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9vNTnPhrTlOMBeUTG9Em8uokiQLs1rKR0dd81leVng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-k0na13w05i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9vNTnPhrTlOMBeUTG9Em8uokiQLs1rKR0dd81leVng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z9vNTnPhrTlOMBeUTG9Em8uokiQLs1rKR0dd81leVng="
+        }
+      ]
+    },
+    {
+      "Route": "styles.k0na13w05i.css",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-k0na13w05i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000434216240"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2302"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9vNTnPhrTlOMBeUTG9Em8uokiQLs1rKR0dd81leVng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -785,13 +922,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+          "Value": "W/\"BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "630xbzxsri"
+          "Value": "k0na13w05i"
         },
         {
           "Name": "label",
@@ -799,13 +936,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+          "Value": "sha256-BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI="
         }
       ]
     },
     {
-      "Route": "styles.630xbzxsri.css",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "Route": "styles.k0na13w05i.css",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -814,7 +951,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10407"
+          "Value": "10994"
         },
         {
           "Name": "Content-Type",
@@ -822,11 +959,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+          "Value": "\"BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -836,7 +973,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "630xbzxsri"
+          "Value": "k0na13w05i"
         },
         {
           "Name": "label",
@@ -844,13 +981,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+          "Value": "sha256-BCBAE0YgcRp3rLaMxvGUQqqnD2lnLRl7NFTltenPLQI="
         }
       ]
     },
     {
-      "Route": "styles.630xbzxsri.css.gz",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "Route": "styles.k0na13w05i.css.gz",
+      "AssetFile": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-k0na13w05i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -859,7 +996,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2283"
+          "Value": "2302"
         },
         {
           "Name": "Content-Type",
@@ -867,11 +1004,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
+          "Value": "\"z9vNTnPhrTlOMBeUTG9Em8uokiQLs1rKR0dd81leVng=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+          "Value": "Fri, 07 Mar 2025 11:22:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -889,7 +1026,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "630xbzxsri"
+          "Value": "k0na13w05i"
         },
         {
           "Name": "label",
@@ -897,144 +1034,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs="
-        }
-      ]
-    },
-    {
-      "Route": "styles.css",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000437828371"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2283"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
-        }
-      ]
-    },
-    {
-      "Route": "styles.css",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10407"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
-        }
-      ]
-    },
-    {
-      "Route": "styles.css.gz",
-      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2283"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs="
+          "Value": "sha256-z9vNTnPhrTlOMBeUTG9Em8uokiQLs1rKR0dd81leVng="
         }
       ]
     }

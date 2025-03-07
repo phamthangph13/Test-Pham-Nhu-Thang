@@ -1,0 +1,6 @@
+c:\Users\winni\OneDrive\Desktop\Test-Pham-Nhu-Thang\ProductManagementAPI\wwwroot\script.js
+c:\Users\winni\OneDrive\Desktop\Test-Pham-Nhu-Thang\ProductManagementAPI\wwwroot\index.html
+c:\Users\winni\OneDrive\Desktop\Test-Pham-Nhu-Thang\ProductManagementAPI\wwwroot\styles.css
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\styles.css

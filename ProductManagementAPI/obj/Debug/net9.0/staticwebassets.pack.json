@@ -1,35 +1,35 @@
 {
   "Files": [
     {
-      "Id": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "C:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
-      "PackagePath": "staticwebassets/script.js"
+      "Id": "C:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
     },
     {
-      "Id": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
-      "PackagePath": "staticwebassets/styles.css"
+      "Id": "C:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.ProductManagementAPI.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ProductManagementAPI.props",
       "PackagePath": "build\\ProductManagementAPI.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ProductManagementAPI.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductManagementAPI.props",
       "PackagePath": "buildMultiTargeting\\ProductManagementAPI.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ProductManagementAPI.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ProductManagementAPI.props",
       "PackagePath": "buildTransitive\\ProductManagementAPI.props"
     }
   ],

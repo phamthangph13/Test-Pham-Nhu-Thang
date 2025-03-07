@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thangpham/Desktop/TEST/ProductManagementAPI/ProductManagementAPI.csproj": {}
+    "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\ProductManagementAPI.csproj": {}
   },
   "projects": {
-    "/Users/thangpham/Desktop/TEST/ProductManagementAPI/ProductManagementAPI.csproj": {
+    "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\ProductManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/ProductManagementAPI.csproj",
+        "projectUniqueName": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\ProductManagementAPI.csproj",
         "projectName": "ProductManagementAPI",
-        "projectPath": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/ProductManagementAPI.csproj",
-        "packagesPath": "/Users/thangpham/.nuget/packages/",
-        "outputPath": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/",
+        "projectPath": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\ProductManagementAPI.csproj",
+        "packagesPath": "C:\\Users\\winni\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\winni\\OneDrive\\Desktop\\Test-Pham-Nhu-Thang\\ProductManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\C#\\SDK\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/thangpham/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\winni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -55,15 +60,15 @@
               "target": "Package",
               "version": "[9.0.2, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.2, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[9.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -89,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
