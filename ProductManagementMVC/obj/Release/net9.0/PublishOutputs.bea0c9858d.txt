@@ -1,0 +1,7 @@
+/Users/thangpham/Desktop/TEST/ProductManagementMVC/bin/Release/net9.0/publish/ProductManagementMVC
+/Users/thangpham/Desktop/TEST/ProductManagementMVC/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/thangpham/Desktop/TEST/ProductManagementMVC/bin/Release/net9.0/publish/appsettings.json
+/Users/thangpham/Desktop/TEST/ProductManagementMVC/bin/Release/net9.0/publish/ProductManagementMVC.dll
+/Users/thangpham/Desktop/TEST/ProductManagementMVC/bin/Release/net9.0/publish/ProductManagementMVC.deps.json
+/Users/thangpham/Desktop/TEST/ProductManagementMVC/bin/Release/net9.0/publish/ProductManagementMVC.runtimeconfig.json
+/Users/thangpham/Desktop/TEST/ProductManagementMVC/bin/Release/net9.0/publish/ProductManagementMVC.pdb

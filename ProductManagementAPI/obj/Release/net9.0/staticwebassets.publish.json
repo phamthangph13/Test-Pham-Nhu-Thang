@@ -1,0 +1,1753 @@
+{
+  "Version": 1,
+  "Hash": "kJ5063YpoD4OcucWDuu3q0zq2WuhgsJnQ271veYl08w=",
+  "Source": "ProductManagementAPI",
+  "BasePath": "_content/ProductManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductManagementAPI/wwwroot",
+      "Source": "ProductManagementAPI",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "BasePath": "_content/ProductManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "script#[.{fingerprint=v95uhu2rto}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ty8rwjmw18",
+      "Integrity": "2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/0h0nugvl6e-v95uhu2rto.br",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "script#[.{fingerprint=v95uhu2rto}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "nd2dhbats3",
+      "Integrity": "tRUS4wKOmVLc4GBe3FgICP17BmX8YHDL8i3OR0jcV7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/u05wrljy9l-fr5ci1w16i.br",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "index#[.{fingerprint=fr5ci1w16i}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "lhp2dl3nyp",
+      "Integrity": "iX7ZtSi+HdFTVU4mHHdX/gyBrcS6KI7tFYJp453ingM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/ul3e0v044x-630xbzxsri.br",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "styles#[.{fingerprint=630xbzxsri}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "xpjz7xdj8t",
+      "Integrity": "a5a1uQ8+8aTYF8MkRcJFJ0LcJX0LlVa8WTLxZ+hMqy4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "index#[.{fingerprint=fr5ci1w16i}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "r9j57fbj6y",
+      "Integrity": "z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "styles#[.{fingerprint=630xbzxsri}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g8ctzikmnv",
+      "Integrity": "MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fr5ci1w16i",
+      "Integrity": "1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v95uhu2rto",
+      "Integrity": "zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    },
+    {
+      "Identity": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "630xbzxsri",
+      "Integrity": "Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.fr5ci1w16i.html",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/u05wrljy9l-fr5ci1w16i.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001055966209"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iX7ZtSi+HdFTVU4mHHdX/gyBrcS6KI7tFYJp453ingM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fr5ci1w16i"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+        }
+      ]
+    },
+    {
+      "Route": "index.fr5ci1w16i.html",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000793650794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fr5ci1w16i"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+        }
+      ]
+    },
+    {
+      "Route": "index.fr5ci1w16i.html",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fr5ci1w16i"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+        }
+      ]
+    },
+    {
+      "Route": "index.fr5ci1w16i.html.br",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/u05wrljy9l-fr5ci1w16i.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iX7ZtSi+HdFTVU4mHHdX/gyBrcS6KI7tFYJp453ingM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fr5ci1w16i"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iX7ZtSi+HdFTVU4mHHdX/gyBrcS6KI7tFYJp453ingM="
+        }
+      ]
+    },
+    {
+      "Route": "index.fr5ci1w16i.html.gz",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fr5ci1w16i"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/u05wrljy9l-fr5ci1w16i.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001055966209"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iX7ZtSi+HdFTVU4mHHdX/gyBrcS6KI7tFYJp453ingM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000793650794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SFh3YBJeH7K2EryzQHtzuTsUfQCP3QVEaUfrZ1aqbg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/u05wrljy9l-fr5ci1w16i.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iX7ZtSi+HdFTVU4mHHdX/gyBrcS6KI7tFYJp453ingM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iX7ZtSi+HdFTVU4mHHdX/gyBrcS6KI7tFYJp453ingM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/u05wrljy9l-fr5ci1w16i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z2NJYDEew5M90qYgUqD55vTXo7pRimV4aeKk3lp6BsY="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000426803244"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2342"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/0h0nugvl6e-v95uhu2rto.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000513874615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1945"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRUS4wKOmVLc4GBe3FgICP17BmX8YHDL8i3OR0jcV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.br",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/0h0nugvl6e-v95uhu2rto.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRUS4wKOmVLc4GBe3FgICP17BmX8YHDL8i3OR0jcV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tRUS4wKOmVLc4GBe3FgICP17BmX8YHDL8i3OR0jcV7M="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E="
+        }
+      ]
+    },
+    {
+      "Route": "script.v95uhu2rto.js",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000426803244"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2342"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v95uhu2rto"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+        }
+      ]
+    },
+    {
+      "Route": "script.v95uhu2rto.js",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/0h0nugvl6e-v95uhu2rto.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000513874615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1945"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRUS4wKOmVLc4GBe3FgICP17BmX8YHDL8i3OR0jcV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v95uhu2rto"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+        }
+      ]
+    },
+    {
+      "Route": "script.v95uhu2rto.js",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v95uhu2rto"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zcAb45jj4wiph/szJhI6311QOEIs0uZNglhL0Bxub20="
+        }
+      ]
+    },
+    {
+      "Route": "script.v95uhu2rto.js.br",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/0h0nugvl6e-v95uhu2rto.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRUS4wKOmVLc4GBe3FgICP17BmX8YHDL8i3OR0jcV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v95uhu2rto"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tRUS4wKOmVLc4GBe3FgICP17BmX8YHDL8i3OR0jcV7M="
+        }
+      ]
+    },
+    {
+      "Route": "script.v95uhu2rto.js.gz",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/0h0nugvl6e-v95uhu2rto.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v95uhu2rto"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+0pG0AlvKTkuorjZ3e72XXhRlc4CEd/6bB+T5iYo9E="
+        }
+      ]
+    },
+    {
+      "Route": "styles.630xbzxsri.css",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/ul3e0v044x-630xbzxsri.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000519480519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1924"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5a1uQ8+8aTYF8MkRcJFJ0LcJX0LlVa8WTLxZ+hMqy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "630xbzxsri"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+        }
+      ]
+    },
+    {
+      "Route": "styles.630xbzxsri.css",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000437828371"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2283"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "630xbzxsri"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+        }
+      ]
+    },
+    {
+      "Route": "styles.630xbzxsri.css",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "630xbzxsri"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+        }
+      ]
+    },
+    {
+      "Route": "styles.630xbzxsri.css.br",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/ul3e0v044x-630xbzxsri.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5a1uQ8+8aTYF8MkRcJFJ0LcJX0LlVa8WTLxZ+hMqy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "630xbzxsri"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5a1uQ8+8aTYF8MkRcJFJ0LcJX0LlVa8WTLxZ+hMqy4="
+        }
+      ]
+    },
+    {
+      "Route": "styles.630xbzxsri.css.gz",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "630xbzxsri"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/ul3e0v044x-630xbzxsri.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000519480519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1924"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5a1uQ8+8aTYF8MkRcJFJ0LcJX0LlVa8WTLxZ+hMqy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000437828371"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2283"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Thp385/0VGfKPkWzn0XEd9mpJfxIFU6p0Ml5vfTQr24="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.br",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/publish/ul3e0v044x-630xbzxsri.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5a1uQ8+8aTYF8MkRcJFJ0LcJX0LlVa8WTLxZ+hMqy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5a1uQ8+8aTYF8MkRcJFJ0LcJX0LlVa8WTLxZ+hMqy4="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "/Users/thangpham/Desktop/TEST/ProductManagementAPI/obj/Release/net9.0/compressed/ul3e0v044x-630xbzxsri.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 01:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MC5PRlEGObIqbVT7J6hZlHPBxx6lRFu9bJ4+r4RT/cs="
+        }
+      ]
+    }
+  ]
+}
